@@ -3,7 +3,7 @@
 import os
 import math
 import time
-import heroku
+import heroku3
 import requests
 
 from pyrogram import Client, filters
