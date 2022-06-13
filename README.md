@@ -7,7 +7,7 @@ Very Sempil Bot Auto Filter bot
 
 
 
-[![Deploy](https://telegra.ph/file/595e6b626b2fee08397d6.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=MjAwOTIwMDgyMDA3L1RpZ2VyU2hyb2ZmIG1haW4)
+[![Deploy](https://telegra.ph/file/81610ba230da4b06e79bf.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=MjAwOTIwMDgyMDA3L1RpZ2VyU2hyb2ZmIG1haW4)
 
 ## Features
 
@@ -107,6 +107,6 @@ python3 bot.py
 Thanks To DivideProjects For Kanging The Repo [Alita_Robot](https://github.com/DivideProjects/Alita_robot)
 
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Abhishek](https://t.me/abhisheksvlog)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [Movie Hub Official](https://t.me/MovieHubOfficialGroup)                                             
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Abhishek](https://t.me/zsbhere)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [Movie Hub Official](https://t.me/Movies_corner20)                                             
 Collabareter ›› [Joel Kurian Biju](https://t.me/CreatorBeatz)
